@@ -30,3 +30,9 @@ Siguiendo la línea de la práctica anterior, en este caso el objetivo consistí
 - [*Notebook* mapa de museos en html](https://github.com/elenaromvar/practicas-datos/blob/main/practica-4/Practicaok-4.html)
 - [*Notebook* mapa de museos en ipynb](https://github.com/elenaromvar/practicas-datos/blob/main/practica-4/Practicaok-4%20.ipynb)
 - [Datos en .csv](https://github.com/elenaromvar/practicas-datos/blob/main/practica-4/pr%C3%A1ctica-4.csv)
+
+## Creación de la página web
+Para la creación de la página web se han seguido los siguientes pasos, detallados en este documento en `.md`: 
+
+- [Metodología](https://github.com/Pontedatos/elena-romero/blob/main/metodologia.md)
+
