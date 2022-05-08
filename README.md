@@ -36,3 +36,7 @@ Para la creación de la página web se han seguido los siguientes pasos, detalla
 
 - [Metodología](https://github.com/Pontedatos/elena-romero/blob/main/metodologia.md)
 
+## Proceso de aprendizaje 
+En este archivo en `.md` se detalla el proceso de aprendizaje de la asignatura:
+- [Proceso de aprendizaje](https://github.com/Pontedatos/elena-romero/blob/main/proceso-de-aprendizaje.md)
+
