@@ -2,7 +2,7 @@
 Este repositorio contiene las prácticas de la alumna Elena Romero Vargas de la asignatura Periodismo de Datos en el curso 2021/2022. 
 Hasta el momento, podemos encontrar aquí: 
 ## Práctica I
-Esta práctica consiste en elaborar dos comentarios en Markdown sobre noticias con contenido relacionado con la asignatura. El primero de ellos nos oferta una serie de datos que versan sobre el carácter nocivo de las redes sociales, mientras que el segundo realiza un estudio de la visualización de datos que, a fecha de febrero de 2022, ofertaba el medio *[Eldiario.es](https://www.eldiario.es/)
+Esta práctica consiste en elaborar dos comentarios en Markdown sobre noticias con contenido relacionado con la asignatura. El primero de ellos nos oferta una serie de datos que versan sobre el carácter nocivo de las redes sociales, mientras que el segundo realiza un estudio de la visualización de datos que, a fecha de febrero de 2022, ofertaba el medio *[Eldiario.es](https://www.eldiario.es/)*
 
 - [Comentarios Práctica I](https://github.com/Pontedatos/elena-romero/blob/main/practica-1.md) 
 
